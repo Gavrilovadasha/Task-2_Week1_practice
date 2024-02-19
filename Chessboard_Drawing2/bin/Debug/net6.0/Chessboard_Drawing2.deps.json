@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Chessboard_Drawing2/1.0.0": {
+        "runtime": {
+          "Chessboard_Drawing2.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Chessboard_Drawing2/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

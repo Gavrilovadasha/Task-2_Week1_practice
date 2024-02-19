@@ -1,0 +1,15 @@
+C:\Users\gavri\Documents\3 курс\учебная практика\Task№2_Week1_Gavrilova\Chessboard_Drawing2\bin\Debug\net6.0\Chessboard_Drawing2.exe
+C:\Users\gavri\Documents\3 курс\учебная практика\Task№2_Week1_Gavrilova\Chessboard_Drawing2\bin\Debug\net6.0\Chessboard_Drawing2.deps.json
+C:\Users\gavri\Documents\3 курс\учебная практика\Task№2_Week1_Gavrilova\Chessboard_Drawing2\bin\Debug\net6.0\Chessboard_Drawing2.runtimeconfig.json
+C:\Users\gavri\Documents\3 курс\учебная практика\Task№2_Week1_Gavrilova\Chessboard_Drawing2\bin\Debug\net6.0\Chessboard_Drawing2.dll
+C:\Users\gavri\Documents\3 курс\учебная практика\Task№2_Week1_Gavrilova\Chessboard_Drawing2\bin\Debug\net6.0\Chessboard_Drawing2.pdb
+C:\Users\gavri\Documents\3 курс\учебная практика\Task№2_Week1_Gavrilova\Chessboard_Drawing2\obj\Debug\net6.0\Chessboard_Drawing2.csproj.AssemblyReference.cache
+C:\Users\gavri\Documents\3 курс\учебная практика\Task№2_Week1_Gavrilova\Chessboard_Drawing2\obj\Debug\net6.0\Chessboard_Drawing2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gavri\Documents\3 курс\учебная практика\Task№2_Week1_Gavrilova\Chessboard_Drawing2\obj\Debug\net6.0\Chessboard_Drawing2.AssemblyInfoInputs.cache
+C:\Users\gavri\Documents\3 курс\учебная практика\Task№2_Week1_Gavrilova\Chessboard_Drawing2\obj\Debug\net6.0\Chessboard_Drawing2.AssemblyInfo.cs
+C:\Users\gavri\Documents\3 курс\учебная практика\Task№2_Week1_Gavrilova\Chessboard_Drawing2\obj\Debug\net6.0\Chessboard_Drawing2.csproj.CoreCompileInputs.cache
+C:\Users\gavri\Documents\3 курс\учебная практика\Task№2_Week1_Gavrilova\Chessboard_Drawing2\obj\Debug\net6.0\Chessboard_Drawing2.dll
+C:\Users\gavri\Documents\3 курс\учебная практика\Task№2_Week1_Gavrilova\Chessboard_Drawing2\obj\Debug\net6.0\refint\Chessboard_Drawing2.dll
+C:\Users\gavri\Documents\3 курс\учебная практика\Task№2_Week1_Gavrilova\Chessboard_Drawing2\obj\Debug\net6.0\Chessboard_Drawing2.pdb
+C:\Users\gavri\Documents\3 курс\учебная практика\Task№2_Week1_Gavrilova\Chessboard_Drawing2\obj\Debug\net6.0\Chessboard_Drawing2.genruntimeconfig.cache
+C:\Users\gavri\Documents\3 курс\учебная практика\Task№2_Week1_Gavrilova\Chessboard_Drawing2\obj\Debug\net6.0\ref\Chessboard_Drawing2.dll
